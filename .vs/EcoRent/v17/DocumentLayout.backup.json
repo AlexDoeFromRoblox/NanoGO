@@ -1,53 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\homepc\\source\\repos\\EcoRent\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8B84DADB-7A16-448D-B831-B6BADB33FAAF}|EcoRent.Client\\EcoRent.Client.csproj|c:\\users\\homepc\\source\\repos\\ecorent\\ecorent.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B84DADB-7A16-448D-B831-B6BADB33FAAF}|EcoRent.Client\\EcoRent.Client.csproj|solutionrelative:ecorent.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B84DADB-7A16-448D-B831-B6BADB33FAAF}|EcoRent.Client\\EcoRent.Client.csproj|c:\\users\\homepc\\source\\repos\\ecorent\\ecorent.client\\wwwroot\\css\\components\\carousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8B84DADB-7A16-448D-B831-B6BADB33FAAF}|EcoRent.Client\\EcoRent.Client.csproj|solutionrelative:ecorent.client\\wwwroot\\css\\components\\carousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 186,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\Program.cs",
-              "RelativeDocumentMoniker": "EcoRent.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\Program.cs",
-              "RelativeToolTip": "EcoRent.Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:45:32.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "carousel.css",
-              "DocumentMoniker": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
-              "RelativeDocumentMoniker": "EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
-              "ToolTip": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
-              "RelativeToolTip": "EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-11T20:44:39.909Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

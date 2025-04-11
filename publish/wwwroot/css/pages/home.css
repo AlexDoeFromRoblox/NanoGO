@@ -1,0 +1,17 @@
+﻿.hero-section {
+    display: flex;
+    align-items: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #6e8efb 0%, #4a6cf7 100%);
+    color: white;
+    border-radius: 16px;
+    margin: 1rem;
+    min-height: 400px;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 1rem;
+}

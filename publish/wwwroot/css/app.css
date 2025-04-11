@@ -1,0 +1,31 @@
+:root {
+    --primary: #5d78ff; /* Основной акцентный цвет */
+    --primary-light: #7d94ff; /* Светлый вариант для hover */
+    --dark-bg: #1a1a1a; /* Темный фон */
+    --dark-secondary: #2d2d2d; /* Вторичный темный */
+    --text-light: #e0e0e0; /* Светлый текст */
+    --text-muted: #b0b0b0; /* Приглушенный текст */
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* Иконки */
+.icon-sm {
+    width: 16px;
+    height: 16px;
+}
+
+.icon-md {
+    width: 24px;
+    height: 24px;
+}
+
+.icon-lg {
+    width: 32px;
+    height: 32px;
+}

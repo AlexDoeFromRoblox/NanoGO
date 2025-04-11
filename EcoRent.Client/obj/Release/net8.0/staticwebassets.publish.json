@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XoGA2NG7Kbf0eVudHBaG2lNDn52da9ZxkG92GzsR46o=",
+  "Hash": "5IZUekzModEFWhbX1Brx7pPVLFKuPhZtyL2JFWq8Avo=",
   "Source": "EcoRent.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.js",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.dat",
       "AssetKind": "Publish",
@@ -209,7 +209,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.dat",
       "AssetKind": "Publish",
@@ -230,7 +230,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "6wdncffitn",
-      "Integrity": "6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4=",
+      "Fingerprint": "muij02g1jl",
+      "Integrity": "Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -272,7 +272,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\79qswa51ug-o87b29klf7.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Publish",
@@ -293,7 +293,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\di3ok1n7y0-rjv86n1vnh.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Publish",
@@ -314,7 +314,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ee4w9y4gzf-91rxfhehz3.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js.gz",
       "AssetKind": "Publish",
@@ -335,7 +335,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fhc7n8h10f-xby11c49lh.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js.gz",
       "AssetKind": "Publish",
@@ -563,7 +563,7 @@
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.br",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.br",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -577,14 +577,14 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "4z9o53oxqr",
-      "Integrity": "gOa421wROl7xOwJFJswtaTlyF6qlVk2o6Fvmgw2LgVg=",
+      "Fingerprint": "500oi79h03",
+      "Integrity": "BbSOSN9BGI465S2WHRF7funAdmfwhVtPXI89fUryZm8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.gz",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -598,8 +598,8 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ax4wiyztpx",
-      "Integrity": "7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=",
+      "Fingerprint": "a2hg4a83lv",
+      "Integrity": "nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm"
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.br",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.br",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1627,14 +1627,14 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "zur9dpsksn",
-      "Integrity": "S+Z4aLrnd7oj9HM2NbC1YKTukUqSgo2ZzpEtgEK3iZ4=",
+      "Fingerprint": "unj7z1dm5r",
+      "Integrity": "SlZ/rYR2ACYUIvpPNGyaIoLTSzkK9H1mB8YRM3nqqNg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.gz",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nrlep9pb8f",
-      "Integrity": "Tc37G9PzHP7vBnwmsd/tMYobQb7vgyFg5SDo4u2x/Nk=",
+      "Fingerprint": "q8n9q6xpnq",
+      "Integrity": "6l/FTJ8MhnophuwBrDN7ky9PY6NrDcdSCFIrEYyh4Oc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -2099,7 +2099,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/EcoRent.Client.wasm",
       "AssetKind": "Publish",
@@ -2110,8 +2110,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "p8wtwps3rw",
-      "Integrity": "eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=",
+      "Fingerprint": "fm3a86d4vu",
+      "Integrity": "KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\EcoRent.Client.wasm"
@@ -2120,7 +2120,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.wasm",
       "AssetKind": "Publish",
@@ -2141,7 +2141,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
       "AssetKind": "Publish",
@@ -2162,7 +2162,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2183,7 +2183,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2204,7 +2204,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
       "AssetKind": "Publish",
@@ -2225,7 +2225,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.wasm",
       "AssetKind": "Publish",
@@ -2246,7 +2246,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2267,7 +2267,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
       "AssetKind": "Publish",
@@ -2288,7 +2288,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Localization.Abstractions.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2309,7 +2309,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Localization.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Localization.wasm",
       "AssetKind": "Publish",
@@ -2330,7 +2330,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2351,7 +2351,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.wasm",
       "AssetKind": "Publish",
@@ -2372,7 +2372,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options.wasm",
       "AssetKind": "Publish",
@@ -2393,7 +2393,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2414,7 +2414,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.wasm",
       "AssetKind": "Publish",
@@ -2435,7 +2435,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2456,7 +2456,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\MudBlazor.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/MudBlazor.wasm",
       "AssetKind": "Publish",
@@ -2477,7 +2477,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent.wasm",
       "AssetKind": "Publish",
@@ -2498,7 +2498,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.wasm",
       "AssetKind": "Publish",
@@ -2519,7 +2519,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.Primitives.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2540,7 +2540,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.wasm",
       "AssetKind": "Publish",
@@ -2561,7 +2561,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console.wasm",
       "AssetKind": "Publish",
@@ -2582,7 +2582,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.wasm",
       "AssetKind": "Publish",
@@ -2603,7 +2603,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory.wasm",
       "AssetKind": "Publish",
@@ -2624,7 +2624,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.wasm",
       "AssetKind": "Publish",
@@ -2645,7 +2645,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2666,7 +2666,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib.wasm",
       "AssetKind": "Publish",
@@ -2687,7 +2687,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri.wasm",
       "AssetKind": "Publish",
@@ -2708,7 +2708,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
       "AssetKind": "Publish",
@@ -2729,7 +2729,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.wasm",
       "AssetKind": "Publish",
@@ -2750,7 +2750,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web.wasm",
       "AssetKind": "Publish",
@@ -2771,7 +2771,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json.wasm",
       "AssetKind": "Publish",
@@ -2792,7 +2792,7 @@
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions.wasm",
       "AssetKind": "Publish",
@@ -3293,27 +3293,6 @@
       "OriginalItemSpec": "wwwroot\\icons\\phone-light.svg"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "SourceId": "EcoRent.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icons/scooter#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3p9oswi8sd",
-      "Integrity": "6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icons\\scooter.svg"
-    },
-    {
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter-pin.png",
       "SourceId": "EcoRent.Client",
       "SourceType": "Discovered",
@@ -3333,6 +3312,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icons\\scooter-pin.png"
+    },
+    {
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "SourceId": "EcoRent.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/scooter#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3p9oswi8sd",
+      "Integrity": "6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\scooter.svg"
     },
     {
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\speed.svg",
@@ -3771,11 +3771,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4=\""
+          "Value": "\"Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:48 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3785,18 +3785,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4="
+          "Value": "sha256-Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.br",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000530222694"
+          "Quality": "0.000531067446"
         }
       ],
       "ResponseHeaders": [
@@ -3806,15 +3806,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1885"
+          "Value": "1882"
         },
         {
           "Name": "ETag",
-          "Value": "\"S+Z4aLrnd7oj9HM2NbC1YKTukUqSgo2ZzpEtgEK3iZ4=\""
+          "Value": "\"SlZ/rYR2ACYUIvpPNGyaIoLTSzkK9H1mB8YRM3nqqNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:48 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3834,24 +3834,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4=\""
+          "Value": "W/\"Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4="
+          "Value": "sha256-Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000488042948"
+          "Quality": "0.000489236791"
         }
       ],
       "ResponseHeaders": [
@@ -3861,15 +3861,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2048"
+          "Value": "2043"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tc37G9PzHP7vBnwmsd/tMYobQb7vgyFg5SDo4u2x/Nk=\""
+          "Value": "\"6l/FTJ8MhnophuwBrDN7ky9PY6NrDcdSCFIrEYyh4Oc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:48 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3889,19 +3889,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4=\""
+          "Value": "W/\"Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6sEw19fBKBzdPXznxOc+KM8I5PsLuPVI9S7xr8Czym4="
+          "Value": "sha256-Lm45GX+vxgxhJOt+DGRwuOiUVEDy2mtiYjklyRD7nlY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.br",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3910,7 +3910,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1885"
+          "Value": "1882"
         },
         {
           "Name": "Content-Type",
@@ -3918,11 +3918,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S+Z4aLrnd7oj9HM2NbC1YKTukUqSgo2ZzpEtgEK3iZ4=\""
+          "Value": "\"SlZ/rYR2ACYUIvpPNGyaIoLTSzkK9H1mB8YRM3nqqNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:48 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3940,13 +3940,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S+Z4aLrnd7oj9HM2NbC1YKTukUqSgo2ZzpEtgEK3iZ4="
+          "Value": "sha256-SlZ/rYR2ACYUIvpPNGyaIoLTSzkK9H1mB8YRM3nqqNg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-6wdncffitn.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\ss01t3felp-muij02g1jl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3955,7 +3955,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2048"
+          "Value": "2043"
         },
         {
           "Name": "Content-Type",
@@ -3963,11 +3963,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tc37G9PzHP7vBnwmsd/tMYobQb7vgyFg5SDo4u2x/Nk=\""
+          "Value": "\"6l/FTJ8MhnophuwBrDN7ky9PY6NrDcdSCFIrEYyh4Oc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:48 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3985,7 +3985,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tc37G9PzHP7vBnwmsd/tMYobQb7vgyFg5SDo4u2x/Nk="
+          "Value": "sha256-6l/FTJ8MhnophuwBrDN7ky9PY6NrDcdSCFIrEYyh4Oc="
         }
       ]
     },
@@ -5176,12 +5176,12 @@
     },
     {
       "Route": "_framework/EcoRent.Client.wasm",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.br",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000100190362"
+          "Quality": "0.000100120144"
         }
       ],
       "ResponseHeaders": [
@@ -5191,15 +5191,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9980"
+          "Value": "9987"
         },
         {
           "Name": "ETag",
-          "Value": "\"gOa421wROl7xOwJFJswtaTlyF6qlVk2o6Fvmgw2LgVg=\""
+          "Value": "\"BbSOSN9BGI465S2WHRF7funAdmfwhVtPXI89fUryZm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:59:47 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5219,24 +5219,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=\""
+          "Value": "W/\"KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo="
+          "Value": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.wasm",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000088952144"
+          "Quality": "0.000087443162"
         }
       ],
       "ResponseHeaders": [
@@ -5246,15 +5246,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11241"
+          "Value": "11435"
         },
         {
           "Name": "ETag",
-          "Value": "\"7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=\""
+          "Value": "\"nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:59:47 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5274,13 +5274,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=\""
+          "Value": "W/\"KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo="
+          "Value": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ="
         }
       ]
     },
@@ -5303,11 +5303,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=\""
+          "Value": "\"KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:59:47 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5317,13 +5317,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo="
+          "Value": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.wasm.br",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.br",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5332,7 +5332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9980"
+          "Value": "9987"
         },
         {
           "Name": "Content-Type",
@@ -5340,11 +5340,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gOa421wROl7xOwJFJswtaTlyF6qlVk2o6Fvmgw2LgVg=\""
+          "Value": "\"BbSOSN9BGI465S2WHRF7funAdmfwhVtPXI89fUryZm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:59:47 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5362,13 +5362,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gOa421wROl7xOwJFJswtaTlyF6qlVk2o6Fvmgw2LgVg="
+          "Value": "sha256-BbSOSN9BGI465S2WHRF7funAdmfwhVtPXI89fUryZm8="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-p8wtwps3rw.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\publish\\4r797jpgmb-fm3a86d4vu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5377,7 +5377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11241"
+          "Value": "11435"
         },
         {
           "Name": "Content-Type",
@@ -5385,11 +5385,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=\""
+          "Value": "\"nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:59:47 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5407,7 +5407,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8="
+          "Value": "sha256-nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo="
         }
       ]
     },
@@ -15994,88 +15994,6 @@
       ]
     },
     {
-      "Route": "icons/scooter.3p9oswi8sd.svg",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3p9oswi8sd"
-        },
-        {
-          "Name": "label",
-          "Value": "icons/scooter.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
-        }
-      ]
-    },
-    {
-      "Route": "icons/scooter.svg",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
-        }
-      ]
-    },
-    {
       "Route": "icons/scooter-pin.png",
       "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter-pin.png",
       "Selectors": [],
@@ -16154,6 +16072,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Zr8r3bBQ7kRsqZDRHwwZSASlIxjfYBIV1vv+OfaNjBQ="
+        }
+      ]
+    },
+    {
+      "Route": "icons/scooter.3p9oswi8sd.svg",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3p9oswi8sd"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/scooter.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
+        }
+      ]
+    },
+    {
+      "Route": "icons/scooter.svg",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
         }
       ]
     },

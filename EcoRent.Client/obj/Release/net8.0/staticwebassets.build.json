@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EPS8AaplRk1i3nH3Mm7gmFmH3mNz6ktg1Kg3W/NUkaw=",
+  "Hash": "wKxSfBHB+J888IsbESYRjDyJKR+uaHqR3TYG3yQS0MI=",
   "Source": "EcoRent.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "uf01gs5etx",
-      "Integrity": "eogYQDiR4yV06gR5SdJPtjnESuZHqBLZ0kUTnfRgjoU=",
+      "Fingerprint": "epbj4ci0u4",
+      "Integrity": "/uk+jf9sAISVd6ePrBH3t3mNimmwrv9hS+RwDTrcsrU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9z7pwoxqfh",
-      "Integrity": "W/uz3KFp8hu6Ybnn0swPITRe9Eb976nBKtQLV2ZMzyQ=",
+      "Fingerprint": "a7dt552xvi",
+      "Integrity": "FqEF/I7LGFtnsUXEboNHL02++sHqNW2d1UmMW80AXzE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\EcoRent.Client.pdb"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "p8wtwps3rw",
-      "Integrity": "eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=",
+      "Fingerprint": "fm3a86d4vu",
+      "Integrity": "KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\webcil\\EcoRent.Client.wasm"
@@ -5708,7 +5708,7 @@
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-p8wtwps3rw.gz",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-fm3a86d4vu.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -5722,8 +5722,8 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\EcoRent.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ax4wiyztpx",
-      "Integrity": "7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=",
+      "Fingerprint": "a2hg4a83lv",
+      "Integrity": "nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\EcoRent.Client.wasm"
@@ -6317,7 +6317,7 @@
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.js"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-uf01gs5etx.gz",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-epbj4ci0u4.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -6331,8 +6331,8 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7y5j5b39q5",
-      "Integrity": "IbrRRmMg9AuavMcg6K7f5I2W7+KajowERQHoD53LB3c=",
+      "Fingerprint": "tyf1bzmskm",
+      "Integrity": "60FaiK3xeIeLniiDhsdUvEIdeGOfErqv+h2rP2P6xGM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7304,7 +7304,7 @@
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.wasm"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-9z7pwoxqfh.gz",
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-a7dt552xvi.gz",
       "SourceId": "EcoRent.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -7318,8 +7318,8 @@
       "RelatedAsset": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\EcoRent.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pag2djpooc",
-      "Integrity": "/1cQG0cMGRXClKkw/COpqXj1GXDJLGe78YIfyRZEIFA=",
+      "Fingerprint": "nzc9mjmc0q",
+      "Integrity": "/fNM5yWY+W/Ysc2PWfinFrNUHlw0KMh5H/rD8BIZbWU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\EcoRent.Client.pdb"
@@ -9320,27 +9320,6 @@
       "OriginalItemSpec": "wwwroot\\icons\\phone-light.svg"
     },
     {
-      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "SourceId": "EcoRent.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icons/scooter#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3p9oswi8sd",
-      "Integrity": "6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icons\\scooter.svg"
-    },
-    {
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter-pin.png",
       "SourceId": "EcoRent.Client",
       "SourceType": "Discovered",
@@ -9360,6 +9339,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icons\\scooter-pin.png"
+    },
+    {
+      "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "SourceId": "EcoRent.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/scooter#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3p9oswi8sd",
+      "Integrity": "6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\scooter.svg"
     },
     {
       "Identity": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\speed.svg",
@@ -9798,7 +9798,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eogYQDiR4yV06gR5SdJPtjnESuZHqBLZ0kUTnfRgjoU=\""
+          "Value": "\"/uk+jf9sAISVd6ePrBH3t3mNimmwrv9hS+RwDTrcsrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/uk+jf9sAISVd6ePrBH3t3mNimmwrv9hS+RwDTrcsrU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-epbj4ci0u4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000113533152"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8807"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60FaiK3xeIeLniiDhsdUvEIdeGOfErqv+h2rP2P6xGM=\""
         },
         {
           "Name": "Last-Modified",
@@ -9807,45 +9846,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eogYQDiR4yV06gR5SdJPtjnESuZHqBLZ0kUTnfRgjoU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-uf01gs5etx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000111457869"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8971"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IbrRRmMg9AuavMcg6K7f5I2W7+KajowERQHoD53LB3c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9861,19 +9861,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eogYQDiR4yV06gR5SdJPtjnESuZHqBLZ0kUTnfRgjoU=\""
+          "Value": "W/\"/uk+jf9sAISVd6ePrBH3t3mNimmwrv9hS+RwDTrcsrU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eogYQDiR4yV06gR5SdJPtjnESuZHqBLZ0kUTnfRgjoU="
+          "Value": "sha256-/uk+jf9sAISVd6ePrBH3t3mNimmwrv9hS+RwDTrcsrU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-uf01gs5etx.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\fx2l16xgup-epbj4ci0u4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9882,7 +9882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8971"
+          "Value": "8807"
         },
         {
           "Name": "Content-Type",
@@ -9890,11 +9890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IbrRRmMg9AuavMcg6K7f5I2W7+KajowERQHoD53LB3c=\""
+          "Value": "\"60FaiK3xeIeLniiDhsdUvEIdeGOfErqv+h2rP2P6xGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:42 GMT"
+          "Value": "Fri, 11 Apr 2025 20:46:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9912,7 +9912,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IbrRRmMg9AuavMcg6K7f5I2W7+KajowERQHoD53LB3c="
+          "Value": "sha256-60FaiK3xeIeLniiDhsdUvEIdeGOfErqv+h2rP2P6xGM="
         }
       ]
     },
@@ -10894,11 +10894,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W/uz3KFp8hu6Ybnn0swPITRe9Eb976nBKtQLV2ZMzyQ=\""
+          "Value": "\"FqEF/I7LGFtnsUXEboNHL02++sHqNW2d1UmMW80AXzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 20:46:41 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10908,18 +10908,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W/uz3KFp8hu6Ybnn0swPITRe9Eb976nBKtQLV2ZMzyQ="
+          "Value": "sha256-FqEF/I7LGFtnsUXEboNHL02++sHqNW2d1UmMW80AXzE="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.pdb",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-9z7pwoxqfh.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-a7dt552xvi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050756268"
+          "Quality": "0.000050362611"
         }
       ],
       "ResponseHeaders": [
@@ -10929,11 +10929,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19701"
+          "Value": "19855"
         },
         {
           "Name": "ETag",
-          "Value": "\"/1cQG0cMGRXClKkw/COpqXj1GXDJLGe78YIfyRZEIFA=\""
+          "Value": "\"/fNM5yWY+W/Ysc2PWfinFrNUHlw0KMh5H/rD8BIZbWU=\""
         },
         {
           "Name": "Last-Modified",
@@ -10957,19 +10957,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"W/uz3KFp8hu6Ybnn0swPITRe9Eb976nBKtQLV2ZMzyQ=\""
+          "Value": "W/\"FqEF/I7LGFtnsUXEboNHL02++sHqNW2d1UmMW80AXzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W/uz3KFp8hu6Ybnn0swPITRe9Eb976nBKtQLV2ZMzyQ="
+          "Value": "sha256-FqEF/I7LGFtnsUXEboNHL02++sHqNW2d1UmMW80AXzE="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-9z7pwoxqfh.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\ofhcoo9ubr-a7dt552xvi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10978,7 +10978,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19701"
+          "Value": "19855"
         },
         {
           "Name": "Content-Type",
@@ -10986,7 +10986,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/1cQG0cMGRXClKkw/COpqXj1GXDJLGe78YIfyRZEIFA=\""
+          "Value": "\"/fNM5yWY+W/Ysc2PWfinFrNUHlw0KMh5H/rD8BIZbWU=\""
         },
         {
           "Name": "Last-Modified",
@@ -11008,7 +11008,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/1cQG0cMGRXClKkw/COpqXj1GXDJLGe78YIfyRZEIFA="
+          "Value": "sha256-/fNM5yWY+W/Ysc2PWfinFrNUHlw0KMh5H/rD8BIZbWU="
         }
       ]
     },
@@ -11031,11 +11031,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=\""
+          "Value": "\"KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 23:54:29 GMT"
+          "Value": "Fri, 11 Apr 2025 21:35:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11045,18 +11045,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo="
+          "Value": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.wasm",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-p8wtwps3rw.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-fm3a86d4vu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000088952144"
+          "Quality": "0.000087443162"
         }
       ],
       "ResponseHeaders": [
@@ -11066,11 +11066,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11241"
+          "Value": "11435"
         },
         {
           "Name": "ETag",
-          "Value": "\"7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=\""
+          "Value": "\"nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=\""
         },
         {
           "Name": "Last-Modified",
@@ -11094,19 +11094,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo=\""
+          "Value": "W/\"KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eewuHqBcKmdHUmYFBBQ/OFOGJW3Yfm65ujoWwq73fWo="
+          "Value": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ="
         }
       ]
     },
     {
       "Route": "_framework/EcoRent.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-p8wtwps3rw.gz",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Release\\net8.0\\compressed\\cijcbc4kre-fm3a86d4vu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11115,7 +11115,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11241"
+          "Value": "11435"
         },
         {
           "Name": "Content-Type",
@@ -11123,7 +11123,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8=\""
+          "Value": "\"nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo=\""
         },
         {
           "Name": "Last-Modified",
@@ -11145,7 +11145,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7mqXSQyIRcB6bSPlJ+ukX0mqa/IQ0iVMMsu6B3jG/w8="
+          "Value": "sha256-nhnfyOV2sQmXwmGTyx3TABKqO37bPqUYrh+vTnhUjEo="
         }
       ]
     },
@@ -40326,88 +40326,6 @@
       ]
     },
     {
-      "Route": "icons/scooter.3p9oswi8sd.svg",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3p9oswi8sd"
-        },
-        {
-          "Name": "label",
-          "Value": "icons/scooter.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
-        }
-      ]
-    },
-    {
-      "Route": "icons/scooter.svg",
-      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
-        }
-      ]
-    },
-    {
       "Route": "icons/scooter-pin.png",
       "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter-pin.png",
       "Selectors": [],
@@ -40486,6 +40404,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Zr8r3bBQ7kRsqZDRHwwZSASlIxjfYBIV1vv+OfaNjBQ="
+        }
+      ]
+    },
+    {
+      "Route": "icons/scooter.3p9oswi8sd.svg",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3p9oswi8sd"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/scooter.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
+        }
+      ]
+    },
+    {
+      "Route": "icons/scooter.svg",
+      "AssetFile": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 21:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6XwrQMi+di2gSM+KpjpvM4fvx9HJbx3FbenFS1ea8Rs="
         }
       ]
     },

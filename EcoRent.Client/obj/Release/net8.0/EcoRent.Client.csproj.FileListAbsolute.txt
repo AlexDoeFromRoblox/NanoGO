@@ -1035,9 +1035,6 @@ C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compresse
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\3c2m0pzvbq-tptq2av103.gz
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\5xqbi2t8bn-lfu7j35m59.gz
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\zfj9z0s4ly-oyz0vx2fzb.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\cijcbc4kre-p8wtwps3rw.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\ofhcoo9ubr-9z7pwoxqfh.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\fx2l16xgup-uf01gs5etx.gz
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1047,9 +1044,11 @@ C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticweb
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcoRent.Client.props
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.EcoRent.Client.props
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.pack.json
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\EcoRent..4A989B34.Up2Date
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\EcoRent.Client.dll
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\refint\EcoRent.Client.dll
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\EcoRent.Client.pdb
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\ref\EcoRent.Client.dll
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\cijcbc4kre-fm3a86d4vu.gz
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\ofhcoo9ubr-a7dt552xvi.gz
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\fx2l16xgup-epbj4ci0u4.gz
