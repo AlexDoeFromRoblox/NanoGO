@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcoRent.Client.styles.css",
+      "PackagePath": "staticwebassets\\EcoRent.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
+      "PackagePath": "staticwebassets\\css\\components\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\header.css",
+      "PackagePath": "staticwebassets\\css\\components\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\layout.css",
+      "PackagePath": "staticwebassets\\css\\components\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\map.css",
+      "PackagePath": "staticwebassets\\css\\components\\map.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\vehicle-card.css",
+      "PackagePath": "staticwebassets\\css\\components\\vehicle-card.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\pages\\home.css",
+      "PackagePath": "staticwebassets\\css\\pages\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\pages\\vehicles.css",
+      "PackagePath": "staticwebassets\\css\\pages\\vehicles.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\all.svg",
+      "PackagePath": "staticwebassets\\icons\\all.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\bike.svg",
+      "PackagePath": "staticwebassets\\icons\\bike.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\eco.svg",
+      "PackagePath": "staticwebassets\\icons\\eco.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\instagram-light.svg",
+      "PackagePath": "staticwebassets\\icons\\instagram-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\logo-light.svg",
+      "PackagePath": "staticwebassets\\icons\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\map-marker.svg",
+      "PackagePath": "staticwebassets\\icons\\map-marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\moped.svg",
+      "PackagePath": "staticwebassets\\icons\\moped.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\phone-light.svg",
+      "PackagePath": "staticwebassets\\icons\\phone-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter-pin.png",
+      "PackagePath": "staticwebassets\\icons\\scooter-pin.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\scooter.svg",
+      "PackagePath": "staticwebassets\\icons\\scooter.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\speed.svg",
+      "PackagePath": "staticwebassets\\icons\\speed.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\telegram-light.svg",
+      "PackagePath": "staticwebassets\\icons\\telegram-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\icons\\user.svg",
+      "PackagePath": "staticwebassets\\icons\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\map-placeholder.jpg",
+      "PackagePath": "staticwebassets\\images\\map-placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\scooter-demo.jpg",
+      "PackagePath": "staticwebassets\\images\\scooter-demo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\scooter-hero.png",
+      "PackagePath": "staticwebassets\\images\\scooter-hero.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcoRent.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcoRent.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcoRent.Client.props",
+      "PackagePath": "build\\EcoRent.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcoRent.Client.props",
+      "PackagePath": "buildMultiTargeting\\EcoRent.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcoRent.Client.props",
+      "PackagePath": "buildTransitive\\EcoRent.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

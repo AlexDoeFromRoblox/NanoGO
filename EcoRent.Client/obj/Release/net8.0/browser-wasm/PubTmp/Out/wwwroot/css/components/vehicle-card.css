@@ -1,0 +1,30 @@
+﻿.vehicle-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
+.vehicle-card {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+    .vehicle-card:hover {
+        transform: translateY(-5px);
+    }
+
+.battery-indicator {
+    height: 6px;
+    background: #eee;
+    border-radius: 3px;
+    margin: 8px 0;
+}
+
+.battery-indicator-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: #4CAF50;
+}

@@ -1,0 +1,38 @@
+﻿@page "/map"
+
+<div class="map-container">
+    <div class="map-placeholder">
+        <!-- Здесь будет реальная карта -->
+        <img src="/images/map-placeholder.jpg" alt="Карта">
+        <div class="vehicle-marker">
+            <img src="/icons/scooter-pin.png" alt="Самокат" class="icon-sm">
+        </div>
+    </div>
+    <div class="map-controls">
+        <button class="locate-btn">
+            <img src="/icons/gps.svg" alt="Мое местоположение">
+        </button>
+    </div>
+</div>
+
+<style>
+    .map-container {
+        position: relative;
+        height: 70vh;
+    }
+
+    .map-placeholder {
+        width: 100%;
+        height: 100%;
+        background: #eee;
+        border-radius: 12px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .vehicle-marker {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+    }
+</style>

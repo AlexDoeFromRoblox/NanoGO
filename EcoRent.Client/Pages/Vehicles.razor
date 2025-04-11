@@ -1,0 +1,13 @@
+﻿@page "/vehicles"
+
+<div class="vehicle-grid">
+    @for (int i = 0; i < 6; i++)
+    {
+        <div class="vehicle-card">
+            <img src="/images/scooter-demo.jpg">
+            <div class="battery-indicator">
+                <div class="battery-indicator-fill" style="width: 80%"></div>
+            </div>
+        </div>
+    }
+</div>

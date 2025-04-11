@@ -1,0 +1,76 @@
+﻿@inherits LayoutComponentBase
+@using Microsoft.AspNetCore.Components.Routing
+
+<div class="app-container">
+    <!-- Верхняя шапка с контактами -->
+    <header class="top-header dark-header">
+        <div class="header-container">
+            <!-- Левый блок - контакты -->
+            <div class="header-contact">
+                <div class="contact-phone">
+                    <img src="/icons/phone-light.svg" class="contact-icon" alt="">
+                    <a href="tel:+375444912276" class="contact-link">+375 (44) 491-22-76</a>
+                </div>
+                <div class="social-media">
+                    <a href="https://www.instagram.com/r.yekim_/" class="social-link" aria-label="Instagram">
+                        <img src="/icons/instagram-light.svg" class="social-icon" alt="">
+                    </a>
+                    <a href="https://t.me/nanogorent" class="social-link" aria-label="Telegram">
+                        <img src="/icons/telegram-light.svg" class="social-icon" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Центральный блок - логотип -->
+            <div class="header-brand">
+                <NavLink href="/" class="brand-link">
+                    <img src="/icons/logo-light.svg" alt="EcoRent" class="brand-logo">
+                    <span class="brand-name">Nanogo</span>
+                </NavLink>
+            </div>
+
+            <!-- Правый блок - информация -->
+            <div class="header-info">
+                <div class="info-item">
+                    <img src="/icons/map-marker.svg" class="info-icon" alt="">
+                    <span class="info-text">Минск, ул. Калиновского, 72</span>
+                </div>
+                <div class="info-item">
+                    <img src="/icons/clock.svg" class="info-icon" alt="">
+                    <span class="info-text">9:00-21:00 ежедневно</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Основная навигационная панель в темной теме -->
+    <header class="main-header dark-header">
+        <!-- Логотип остается светлым -->
+        <img src="/icons/logo-light.svg" alt="EcoRent" class="logo">
+        <nav class="main-nav">
+            <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">Главная</NavLink>
+            <NavLink href="/vehicles" class="nav-link">Транспорт</NavLink>
+            <NavLink href="/map" class="nav-link">Карта</NavLink>
+        </nav>
+        <button class="user-btn">
+            <!-- Иконка пользователя остается светлой -->
+            <img src="/icons/user.svg" alt="Профиль" class="icon-md">
+        </button>
+    </header>
+
+    <!-- Основное содержимое с темным фоном -->
+    <main class="main-content dark-content">
+        @Body
+    </main>
+
+    <!-- Темный подвал -->
+    <footer class="main-footer dark-footer">
+        <div class="footer-content">
+            <p class="footer-text">© 2024 EcoRent | Платформа аренды электротранспорта</p>
+            <div class="footer-links">
+                <a href="/privacy">Политика конфиденциальности</a>
+                <a href="/terms">Условия использования</a>
+            </div>
+        </div>
+    </footer>
+</div>

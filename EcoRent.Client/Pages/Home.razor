@@ -1,0 +1,105 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+@implements IDisposable
+
+<!-- Описание сайта -->
+<div class="site-description">
+    <h1>EcoRent — аренда электротранспорта</h1>
+    <p>
+        Сервис для быстрой аренды самокатов, велосипедов и скутеров в вашем городе. 
+        Более 1000 единиц транспорта доступны 24/7.
+    </p>
+</div>
+
+<!-- Карусель -->
+<div class="carousel-container">
+    @foreach (var slide in slides)
+    {
+        <div class="carousel-slide @(currentSlide == slide.Id ? "active" : "")">
+            <div class="image-overlay"></div>
+            <img src="@slide.ImageUrl" alt="@slide.Title">
+            <div class="slide-content">
+                <h2>@slide.Title</h2>
+                <p>@slide.Description</p>
+                @if (!string.IsNullOrEmpty(slide.ButtonLink))
+                {
+                    <button class="slide-btn" @onclick="() => NavigationManager.NavigateTo(slide.ButtonLink)">
+                        @slide.ButtonText
+                    </button>
+                }
+            </div>
+        </div>
+    }
+    
+    <button class="carousel-control prev" @onclick="PrevSlide">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15 18L9 12L15 6" stroke="white" stroke-width="2" stroke-linecap="round" />
+        </svg>
+    </button>
+
+    <button class="carousel-control next" @onclick="NextSlide">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M9 6L15 12L9 18" stroke="white" stroke-width="2" stroke-linecap="round" />
+        </svg>
+    </button>
+    
+    <div class="carousel-indicators">
+        @foreach (var slide in slides)
+        {
+            <span class="@(currentSlide == slide.Id ? "active" : "")" 
+                  @onclick="() => GoToSlide(slide.Id)"></span>
+        }
+    </div>
+</div>
+
+<!-- Кнопки навигации -->
+<div class="transport-buttons">
+    @foreach (var vehicle in vehicleTypes)
+    {
+        <button @onclick='() => NavigationManager.NavigateTo($"/vehicles?type={vehicle.Key}")' 
+                class="transport-btn">
+            <img src="@vehicle.Value.Icon" class="btn-icon">
+            @vehicle.Value.Name
+        </button>
+    }
+</div>
+
+@code {
+    private int currentSlide = 0;
+    private Timer autoSlideTimer;
+    private List<Slide> slides = new()
+    {
+        new Slide(0, "/images/banner1.jpg", "Дешевая аренда", "От 99₽ в час", "Подробнее", "/promo"),
+        new Slide(1, "/images/banner2.jpg", "Экологично", "0% выбросов CO2", "Узнать больше", "/eco"),
+        new Slide(2, "/images/banner3.jpg", "Быстрый старт", "Доступно за 2 минуты", "Как это работает?", "/howto"),
+        new Slide(3, "/images/banner4.jpg", "Новые модели", "Последние поступления", "Смотреть", "/new")
+    };
+
+    private Dictionary<string, (string Icon, string Name)> vehicleTypes = new()
+    {
+        ["scooter"] = ("/icons/scooter.svg", "Самокаты"),
+        ["bike"] = ("/icons/bike.svg", "Велосипеды"),
+        ["moped"] = ("/icons/moped.svg", "Скутеры"),
+        ["all"] = ("/icons/all.svg", "Весь транспорт")
+    };
+
+    protected override void OnInitialized()
+    {
+        autoSlideTimer = new Timer(_ => 
+        {
+            InvokeAsync(() => 
+            {
+                NextSlide();
+                StateHasChanged();
+            });
+        }, null, 5000, 5000);
+    }
+
+    private void NextSlide() => currentSlide = (currentSlide + 1) % slides.Count;
+    private void PrevSlide() => currentSlide = (currentSlide - 1 + slides.Count) % slides.Count;
+    private void GoToSlide(int id) => currentSlide = id;
+
+    public void Dispose() => autoSlideTimer?.Dispose();
+
+    private record Slide(int Id, string ImageUrl, string Title, string Description, string ButtonText, string ButtonLink);
+}

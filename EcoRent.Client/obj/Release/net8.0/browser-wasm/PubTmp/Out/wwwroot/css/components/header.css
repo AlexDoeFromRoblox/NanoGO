@@ -1,0 +1,194 @@
+﻿/* ===== Верхняя шапка ===== */
+.top-header {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    padding: 14px 0; /* Увеличен padding */
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    box-shadow: 0 2px 15px rgba(0,0,0,0.03);
+    font-size: 15px; /* Базовый размер увеличен */
+}
+
+/* ===== Темная шапка ===== */
+.dark-header {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    box-shadow: 0 2px 15px rgba(0,0,0,0.2);
+    color: #e0e0e0;
+}
+
+    .dark-header .contact-link {
+        color: #e0e0e0;
+    }
+
+        .dark-header .contact-link:hover {
+            color: var(--primary-light);
+        }
+
+    .dark-header .brand-name {
+        color: #ffffff;
+        text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .dark-header .info-text {
+        color: #b0b0b0;
+    }
+
+    /* Иконки для темной темы */
+    .dark-header .contact-icon,
+    .dark-header .info-icon,
+    .dark-header .social-icon,
+    .dark-header .brand-logo {
+        filter: brightness(0) invert(1) opacity(0.9);
+    }
+
+    .dark-header .social-link:hover .social-icon {
+        filter: brightness(0) invert(1) opacity(1);
+        transform: translateY(-2px);
+    }
+
+    /* Анимации */
+    .dark-header .brand-link:hover .brand-logo {
+        transform: rotate(-5deg) scale(1.05);
+        filter: drop-shadow(0 2px 4px rgba(255,255,255,0.1));
+    }
+
+/* Общие стили для шапки */
+.header-container {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    gap: 20px;
+}
+
+/* Левый блок - контакты */
+.header-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.contact-phone {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.contact-icon {
+    width: 16px;
+    height: 16px;
+    opacity: 0.9;
+    transition: all 0.3s ease;
+}
+
+.contact-link {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+    .contact-link:hover {
+        color: var(--primary);
+    }
+
+.social-media {
+    display: flex;
+    gap: 12px;
+}
+
+.social-link {
+    display: inline-flex;
+    transition: transform 0.3s ease;
+}
+
+.social-icon {
+    width: 20px;
+    height: 20px;
+    opacity: 0.8;
+    transition: all 0.3s ease;
+}
+
+.social-link:hover .social-icon {
+    opacity: 1;
+    transform: translateY(-2px);
+}
+
+/* Центральный блок - логотип */
+.header-brand {
+    display: flex;
+    justify-content: center;
+}
+
+.brand-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.brand-logo {
+    height: 32px;
+    width: auto;
+    transition: transform 0.4s ease;
+}
+
+.brand-name {
+    font-size: 50px;
+    font-weight: 700;
+    color: var(--primary);
+    letter-spacing: 0.5px;
+}
+
+.brand-link:hover .brand-logo {
+    transform: rotate(-5deg) scale(1.05);
+}
+
+/* Правый блок - информация */
+.header-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+}
+
+.info-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.info-icon {
+    width: 18px;
+    height: 18px;
+    opacity: 0.8;
+}
+
+.info-text {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .header-container {
+        grid-template-columns: 1fr;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .header-contact,
+    .header-info {
+        align-items: center;
+    }
+
+    .header-info {
+        margin-top: 10px;
+    }
+
+    .brand-name {
+        font-size: 18px;
+    }
+}
