@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "EcoRent.Client\\wwwroot\\css\\pages\\home.css",
               "ToolTip": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\pages\\home.css",
               "RelativeToolTip": "EcoRent.Client\\wwwroot\\css\\pages\\home.css",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAmwCEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAmwCEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-12T11:45:16.282Z",
               "IsPinned": true,
@@ -44,7 +44,8 @@
               "RelativeToolTip": "EcoRent.Client\\Pages\\Home.razor",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAAHkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T12:10:31.825Z"
+              "WhenOpened": "2025-04-12T12:10:31.825Z",
+              "EditorCaption": ""
             }
           ]
         }

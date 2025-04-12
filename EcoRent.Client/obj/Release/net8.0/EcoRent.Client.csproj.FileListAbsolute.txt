@@ -1049,7 +1049,6 @@ C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\EcoRent.C
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\refint\EcoRent.Client.dll
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\EcoRent.Client.pdb
 C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\ref\EcoRent.Client.dll
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\cijcbc4kre-ayti8wkk66.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\ofhcoo9ubr-2chw6wum3l.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\fx2l16xgup-oerl9pwl16.gz
-C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\cijcbc4kre-xb8jm9cpzc.gz
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\ofhcoo9ubr-p717kwznot.gz
+C:\Users\homepc\source\repos\EcoRent\EcoRent.Client\obj\Release\net8.0\compressed\fx2l16xgup-3jmzdzuqn5.gz

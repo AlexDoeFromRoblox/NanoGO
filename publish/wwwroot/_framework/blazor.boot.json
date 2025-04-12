@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EcoRent.Client",
   "resources": {
-    "hash": "sha256-uG2+Bauctos7JSiBOYJVbFIOCzgjIcngyESXllQrslM=",
+    "hash": "sha256-4Nu6hFJeuYKz0GqEU0tjPsTG8Ndk1C4sKlYeKLGuSx4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "EcoRent.Client.wasm": "sha256-KR+okTQzqFbnDWhBy2Yy1oV3yFOW9RX8O0eWCcjcHMQ=",
+      "EcoRent.Client.wasm": "sha256-7UrtmTWBnTVZx4+J18/GGwkt7Mr9AVY4Ylxjaf0WYAs=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-O806NrUAd35ndaCkd+gjgHHsuv5ety7ESbXdSIoPB8A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Ft0kCysqif8GFN3CS+gGwuMux+SsE3coDTH6DTfqCf0=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-eNcZI4zVnxg29F/qNblTjo16Z+mAuAGIJpq6mXzNjDg=",
