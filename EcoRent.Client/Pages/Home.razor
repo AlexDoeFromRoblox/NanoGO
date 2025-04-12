@@ -64,6 +64,63 @@
     }
 </div>
 
+<!-- Новый раздел с инструкцией -->
+<section class="rental-guide">
+    <h2 class="section-title">Как арендовать электротранспорт</h2>
+
+    <div class="guide-steps">
+        <!-- Шаг 1 -->
+        <div class="guide-step">
+            <div class="step-number">1</div>
+            <img src="/images/guide/select-vehicle.png" alt="Выбор транспорта" class="step-image">
+            <div class="step-content">
+                <h3>Выберите транспорт</h3>
+                <p>Нажмите на кнопку с нужным видом транспорта выше или найдите его на карте</p>
+            </div>
+        </div>
+
+        <!-- Шаг 2 -->
+        <div class="guide-step step-reverse">
+            <div class="step-number">2</div>
+            <img src="/images/guide/scan-qr.png" alt="Сканирование QR" class="step-image">
+            <div class="step-content">
+                <h3>Отсканируйте QR-код</h3>
+                <p>Наведите камеру телефона на QR-код на транспорте для разблокировки</p>
+            </div>
+        </div>
+
+        <!-- Шаг 3 -->
+        <div class="guide-step">
+            <div class="step-number">3</div>
+            <img src="/images/guide/ride.png" alt="Поездка" class="step-image">
+            <div class="step-content">
+                <h3>Наслаждайтесь поездкой</h3>
+                <p>Передвигайтесь в любом направлении в пределах разрешенной зоны</p>
+            </div>
+        </div>
+
+        <!-- Шаг 4 -->
+        <div class="guide-step step-reverse">
+            <div class="step-number">4</div>
+            <img src="/images/guide/park.png" alt="Парковка" class="step-image">
+            <div class="step-content">
+                <h3>Завершите аренду</h3>
+                <p>Припаркуйтесь в разрешенном месте и закройте аренду в приложении</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="safety-tips">
+        <h3>Правила безопасности:</h3>
+        <ul>
+            <li>Используйте шлем при езде на электросамокатах и велосипедах</li>
+            <li>Соблюдайте скоростной режим</li>
+            <li>Не передавайте транспорт третьим лицам</li>
+            <li>Паркуйтесь только в разрешенных местах</li>
+        </ul>
+    </div>
+</section>
+
 @code {
     private int currentSlide = 0;
     private Timer autoSlideTimer;

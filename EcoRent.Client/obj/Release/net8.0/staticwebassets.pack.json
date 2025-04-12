@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\carousel.css",
-      "PackagePath": "staticwebassets\\css\\components\\carousel.css"
-    },
-    {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\header.css",
       "PackagePath": "staticwebassets\\css\\components\\header.css"
     },
@@ -37,8 +33,16 @@
       "PackagePath": "staticwebassets\\css\\components\\map.css"
     },
     {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\tutorial.css",
+      "PackagePath": "staticwebassets\\css\\components\\tutorial.css"
+    },
+    {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\components\\vehicle-card.css",
       "PackagePath": "staticwebassets\\css\\components\\vehicle-card.css"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\loader.css",
+      "PackagePath": "staticwebassets\\css\\loader.css"
     },
     {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\css\\pages\\home.css",
@@ -137,6 +141,22 @@
       "PackagePath": "staticwebassets\\images\\banner4.jpg"
     },
     {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\guide\\park.png",
+      "PackagePath": "staticwebassets\\images\\guide\\park.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\guide\\ride.png",
+      "PackagePath": "staticwebassets\\images\\guide\\ride.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\guide\\scan-qr.png",
+      "PackagePath": "staticwebassets\\images\\guide\\scan-qr.png"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\guide\\select-vehicle.png",
+      "PackagePath": "staticwebassets\\images\\guide\\select-vehicle.png"
+    },
+    {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\map-placeholder.jpg",
       "PackagePath": "staticwebassets\\images\\map-placeholder.jpg"
     },
@@ -149,8 +169,32 @@
       "PackagePath": "staticwebassets\\images\\scooter-hero.png"
     },
     {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\step1.jpg",
+      "PackagePath": "staticwebassets\\images\\step1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\step2.jpg",
+      "PackagePath": "staticwebassets\\images\\step2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\images\\step3.jpg",
+      "PackagePath": "staticwebassets\\images\\step3.jpg"
+    },
+    {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\js\\BlazorLoader.js",
+      "PackagePath": "staticwebassets\\js\\BlazorLoader.js"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\js\\loader.js",
+      "PackagePath": "staticwebassets\\js\\loader.js"
+    },
+    {
+      "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\js\\tutorial.js",
+      "PackagePath": "staticwebassets\\js\\tutorial.js"
     },
     {
       "Id": "C:\\Users\\homepc\\source\\repos\\EcoRent\\EcoRent.Client\\wwwroot\\sample-data\\weather.json",

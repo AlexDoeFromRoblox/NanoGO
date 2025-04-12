@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoRent.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efdb4154c585e55cd25275f374c738edc9130a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5653d5b7cad3204cf01511182cf351e8be98efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoRent.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoRent.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

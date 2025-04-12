@@ -1,0 +1,104 @@
+﻿.blazor-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.5s ease;
+}
+
+.loader-container {
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+}
+
+.loader-animation {
+    position: relative;
+    margin: 0 auto 30px;
+    width: 120px;
+    height: 120px;
+}
+
+.loader-spinner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 8px solid rgba(255, 255, 255, 0.1);
+    border-top-color: #5b7eff;
+    border-radius: 50%;
+    animation: spin 1.5s linear infinite;
+}
+
+.loader-logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60px;
+    height: 60px;
+    animation: pulse 2s infinite;
+}
+
+    .loader-logo img {
+        width: 100%;
+        height: 100%;
+        filter: drop-shadow(0 0 10px rgba(91, 126, 255, 0.5));
+    }
+
+.loader-progress {
+    margin-top: 20px;
+}
+
+.progress-bar {
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+    .progress-bar::after {
+        content: '';
+        display: block;
+        height: 100%;
+        width: 0;
+        background: linear-gradient(90deg, #5b7eff, #9ab1ff);
+        transition: width 0.4s ease;
+    }
+
+.progress-text {
+    color: #e0e0e0;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: translate(-50%, -50%) scale(1);
+    }
+
+    50% {
+        transform: translate(-50%, -50%) scale(1.05);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+
+.fade-out {
+    opacity: 0;
+    pointer-events: none;
+}
